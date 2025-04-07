@@ -1,5 +1,8 @@
-# Netflix
-Steps that used to to clean the data set is mentined below:
+# Task 1: Data Clening and Preprocessing
+Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
+Tools: Excel / Python(Pandas)
+
+Steps that used to to clean the data set is mentoined below:
 
 1. Loaded data: Imported pandas and loaded the dataset from a CSV file.
 2. Explored data: Checked the first and last few rows, data shape, unique values, and column names.
